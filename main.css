@@ -1,1 +1,19 @@
 /* ADD YOUR STYLES HERE */
+
+.clean-form label{
+	display: inline-block;
+	width: 20%;
+	text-align: right;
+}
+
+.clean-form input{
+	width: 40%;
+	border-radius: 5px;
+	border: 1px solid #CCC;
+	margin: 17px;
+	padding: 5px;
+}
+
+input.small-input{
+	width: 10%;
+}
